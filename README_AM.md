@@ -100,4 +100,4 @@ If you have any questions, you can contact me at the following email address: <a
 If you want to support me, you can donate with the following link: [PayPal](https://paypal.me/arnaud134)
 
 ---
-© 2023 Arnaud Michel. All Rights Reserved.
+© 2024 Arnaud Michel. All Rights Reserved.
